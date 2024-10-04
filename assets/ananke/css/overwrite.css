@@ -1,0 +1,45 @@
+/****************************************************************
+ * These configurations overwrite existing styles in the theme. *
+ ****************************************************************/
+
+/* Enlarge text area. */
+.measure-wide {
+    max-width: 100rem;
+}
+
+.mw7 {
+    max-width: 100rem;
+}
+
+.mw8 {
+    max-width: 100rem;
+}
+
+/* Fix alignment of landing page. */
+.tc-l {
+    text-align: left;
+}
+
+.lh-title, .fw1 {
+    text-align: center;
+}
+
+/* Change background color. */
+/* SIAM old color: #1375a4 */
+:root {
+    --bg-color: #1a0c9b;
+    --bg-color-faded: #1a0c9b66;
+}
+
+.bg-black {
+    background-color: var(--bg-color);
+}
+
+.bg-black-60 {
+    background-color: var(--bg-color-faded);
+}
+
+/* Increase spacing between menu items. */
+.pr3 {
+    padding-right: 2rem;
+}
