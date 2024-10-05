@@ -25,7 +25,7 @@ Forming a SIAM Chapter is easy. If you would like to start a Chapter at your Uni
 
 ## Current Chapters
 
-In the UK and Republic of Ireland, there are currently 19 Student Chapters, who organise their own local events, and there is also a SIAM National Student Chapter Conference (SNSCC) organised every year.
+There are currently 19 Student Chapters in the UK and Republic of Ireland. Active chapters organise their own local events, and every year one chapter hosts the SIAM National Student Chapter Conference (SNSCC).
 
 + [University of Bath](https://people.bath.ac.uk/sg968/SIAM.html) (England)
 + University of Cambridge (England)
