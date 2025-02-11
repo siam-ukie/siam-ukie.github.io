@@ -10,7 +10,7 @@ omit_header_text: true
 
 The 29th Annual Meeting of the SIAM UKIE Section will be hosted at the Rutherford Appleton Laboratory in Didcot on **11 April 2025**.
 
-Further information and a list of invited speakers will be available in due course.
+Local information and a provisional schedule are available on the [Annual Meeting's Website](https://www.numerical.rl.ac.uk/events/siam-ukie-annual-meeting-2025/).
 
 ## Previous Annual Meetings
 
