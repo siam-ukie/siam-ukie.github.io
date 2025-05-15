@@ -13,14 +13,14 @@
   <div class="menu-icon hover-white white-90" id="menu-icon">&#9776;</div>
 
   <div class="nav-links flex-l" id="nav-links">
-    {{ partial "i18nlist.html" . }}
+    {{ partials.Include "i18nlist.html" . }}
     {{ if .Site.Menus.main }}
           {{ range .Site.Menus.main }}
           <a class="menu-entry link hover-white white-90 no-underline f5 f4-ns {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }} " href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
             {{ .Name }}
           </a>
           {{ end }}
-          {{ partialCached "social-follow.html" . }}
+          {{ partials.IncludeCached "social/follow.html" . }}
     {{ end }}
   </div>
 
