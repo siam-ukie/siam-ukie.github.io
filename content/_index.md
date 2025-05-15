@@ -31,25 +31,25 @@ The current SIAM UKIE officers are:
 <div class="full-page-centered-container">
   <div class="officer-cards">
     <div class="officer-card">
-      <a href="https://personalpages.manchester.ac.uk/staff/Catherine.Powell/">
-          <img src="images/CatherinePowell.jpeg" alt="Catherine Powell">
+      <a href="https://www.bristol.ac.uk/people/person/Alan-Champneys-f32873f8-bbfb-4aa8-8fa9-6a95214b2822/">
+          <img src="images/AlanChampneys.jpg" alt="Alan Champneys">
       </a>
       <p>
           <strong>President</strong><br>
-          <a href="https://personalpages.manchester.ac.uk/staff/Catherine.Powell/">Prof. Catherine Powell</a>
-          <br>University of Manchester<br>
-          1 April 2023 &ndash; 31 March 2025
+          <a href="https://www.bristol.ac.uk/people/person/Alan-Champneys-f32873f8-bbfb-4aa8-8fa9-6a95214b2822/">Prof. Alan Champneys</a>
+          <br>University of Bristol<br>
+          1 April 2025 &ndash; 31 March 2027
       </p>
     </div>
     <div class="officer-card">
-      <a href="https://www.cardiff.ac.uk/people/view/98660-mihai-angela">
-          <img src="images/AngelaMihai.jpeg" alt="Angela Mihai">
+      <a href="https://www.strath.ac.uk/staff/arrigofrancescadr/">
+          <img src="images/FrancescaArrigo.jpg" alt="Francesca Arrigo">
       </a>
       <p>
           <strong>Vice-President</strong><br>
-          <a href="https://www.cardiff.ac.uk/people/view/98660-mihai-angela">Prof. Angela Mihai</a>
-          <br>Cardiff University<br>
-          1 April 2023 &ndash; 31 March 2025
+          <a href="https://www.strath.ac.uk/staff/arrigofrancescadr/">Dr Francesca Arrigo</a>
+          <br>University of Strathclyde<br>
+          1 April 2025 &ndash; 31 March 2027
       </p>
     </div>
     <div class="officer-card">
