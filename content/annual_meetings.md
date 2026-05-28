@@ -28,7 +28,7 @@ The invited speakers are:
 + [Francis Watson (University of Manchester)](https://research.manchester.ac.uk/en/persons/francis.watson)
 -->
 
-###  2025 Didcot ([Website])(https://www.numerical.rl.ac.uk/events/siam-ukie-annual-meeting-2025/)
+###  2025 Didcot ([Website](https://www.numerical.rl.ac.uk/events/siam-ukie-annual-meeting-2025/))
 **Speakers:** Sven Leyffer (Argonne National Laboratory), Claire Gormley (University College Dublin), Patrick Farrell (Oxford University), Genoveva Burca (Diamond Light Source)
 
 ###  2024 Manchester ([Website](https://personalpages.manchester.ac.uk/staff/Catherine.Powell/SIAMUKIE_Meeting2024.html))
