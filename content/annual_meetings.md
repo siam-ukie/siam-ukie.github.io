@@ -6,11 +6,11 @@ featured_image: ''
 omit_header_text: true
 ---
 
-## SIAM UKIE Annual Meeting 2025
+## SIAM UKIE Annual Meeting 2026
 
-The 29th Annual Meeting of the SIAM UKIE Section will be hosted at the Rutherford Appleton Laboratory in Didcot on **11 April 2025**.
+The 30th Annual Meeting of the SIAM UKIE Section will be hosted at the University of Leicester on **30 June 2026**.
 
-Local information and a provisional schedule are available on the [Annual Meeting's Website](https://www.numerical.rl.ac.uk/events/siam-ukie-annual-meeting-2025/).
+Local information and the list of confirmed speakers are available on the [Annual Meeting's Website](https://sites.google.com/view/siamukie26/).
 
 ## Previous Annual Meetings
 
@@ -27,6 +27,10 @@ The invited speakers are:
 + [Michela Ottobre (University of Heriot-Watt)](https://www.macs.hw.ac.uk/~mo3/)
 + [Francis Watson (University of Manchester)](https://research.manchester.ac.uk/en/persons/francis.watson)
 -->
+
+###  2025 Didcot ([Website])(https://www.numerical.rl.ac.uk/events/siam-ukie-annual-meeting-2025/)
+**Speakers:** Sven Leyffer (Argonne National Laboratory), Claire Gormley (University College Dublin), Patrick Farrell (Oxford University), Genoveva Burca (Diamond Light Source)
+
 ###  2024 Manchester ([Website](https://personalpages.manchester.ac.uk/staff/Catherine.Powell/SIAMUKIE_Meeting2024.html))
 **Speakers:** Silvia Gazzola (University of Bath), Mike Jeffrey (University of Bristol), Natalia Kopteva (University of Limerick), Michela Ottobre (University of Heriot-Watt), Francis Watson (University of Manchester)
 
