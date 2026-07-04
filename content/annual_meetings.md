@@ -6,30 +6,19 @@ featured_image: ''
 omit_header_text: true
 ---
 
-## SIAM UKIE Annual Meeting 2026
+## SIAM UKIE Annual Meeting 2027
 
-The 30th Annual Meeting of the SIAM UKIE Section will be hosted at the University of Leicester on **30 June 2026**.
-
-Local information and the list of confirmed speakers are available on the [Annual Meeting's Website](https://sites.google.com/view/siamukie26/).
+The 31th Annual Meeting of the SIAM UKIE Section will take place in 2027. We do not yet have a local organising committee – if you would be interested in organising it, please get in touch with one of the officers!
 
 ## Previous Annual Meetings
 
 The SIAM UKIE Section has organised annual meetings since 1997. The inaugural meeting was held at The University of Manchester Institute of Science and Technology (UMIST) on 6 January 1997.
 
-<!--
-The 28th Annual Meeting of the SIAM UKIE Section will be hosted at the University of Manchester on the **22 March 2024**.
-Visit the meeting website [here](https://personalpages.manchester.ac.uk/staff/Catherine.Powell/SIAMUKIE_Meeting2024.html) for registration and other information.
-
-The invited speakers are:
-+ [Silvia Gazzola (University of Bath)](https://sites.google.com/view/silviaspersonalwebpage/silvias-homepage)
-+ [Mike Jeffrey (University of Bristol)](https://research-information.bris.ac.uk/en/persons/mike-r-jeffrey)
-+ [Natalia Kopteva (University of Limerick)](https://staff.ul.ie/natalia/)
-+ [Michela Ottobre (University of Heriot-Watt)](https://www.macs.hw.ac.uk/~mo3/)
-+ [Francis Watson (University of Manchester)](https://research.manchester.ac.uk/en/persons/francis.watson)
--->
+###  2026 Leicester ([Website](https://sites.google.com/view/siamukie26/))
+**Speakers:** Nicolas Boullé (Imperial College London), Stefan Güttel (University of Manchester), Valerio Lucarini (University of Leicester), Doireann O'Kiely (University of Limerick), Maryam Parvizi (University of Birmingham), Ilan Price (Google DeepMind), Diwei Zhou (Loughborough University)
 
 ###  2025 Didcot ([Website](https://www.numerical.rl.ac.uk/events/siam-ukie-annual-meeting-2025/))
-**Speakers:** Sven Leyffer (Argonne National Laboratory), Claire Gormley (University College Dublin), Patrick Farrell (Oxford University), Genoveva Burca (Diamond Light Source)
+**Speakers:** Genoveva Burca (Diamond Light Source), Patrick Farrell (Oxford University), Claire Gormley (University College Dublin), Sven Leyffer (Argonne National Laboratory)
 
 ###  2024 Manchester ([Website](https://personalpages.manchester.ac.uk/staff/Catherine.Powell/SIAMUKIE_Meeting2024.html))
 **Speakers:** Silvia Gazzola (University of Bath), Mike Jeffrey (University of Bristol), Natalia Kopteva (University of Limerick), Michela Ottobre (University of Heriot-Watt), Francis Watson (University of Manchester)
